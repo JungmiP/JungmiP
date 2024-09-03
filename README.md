@@ -45,12 +45,4 @@
   ### Backjoon
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qkrwjdal77)](https://solved.ac/profile/qkrwjdal77)
 </div>
-   </br>
-   </br>
-   <div align=center>
-
-  ## :eight_pointed_black_star: ETC
-   ### Stats
-   [![Jungmi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JungmiP&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</div>
+  
