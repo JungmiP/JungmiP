@@ -32,7 +32,12 @@
   <div align=center>
   
   ## :asterisk: Project  
+  ### 개인
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JungmiP&repo=dangdangdang)](https://github.com/JungmiP/dangdangdang) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JungmiP&repo=MailMe)](https://github.com/JungmiP/MailMe)
+  
+  ### 팀
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JungmiP&repo=Nubila)](https://github.com/JungmiP/Nubila)
   </div>
   <div align=center>
    
