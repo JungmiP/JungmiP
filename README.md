@@ -44,5 +44,6 @@
   ## :eight_spoked_asterisk: Studying
   ### Backjoon
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qkrwjdal77)](https://solved.ac/profile/qkrwjdal77)
+  [![gists-readme](https://gists-readme.yizack.com/api?user=JungmiP&n=8&title=My+Gists+for+BJ)](https://gist.github.com/JungmiP)
 </div>
   
