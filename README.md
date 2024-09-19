@@ -38,13 +38,15 @@
   
   ### 팀
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JungmiP&repo=Nubila)](https://github.com/JungmiP/Nubila)
-  </div>
-  <div align=center>
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JungmiP&repo=SoulMovie)](https://github.com/JungmiP/SoulMovie)
+  
 
  ### 미니
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JungmiP&repo=HandDetect)](https://github.com/JungmiP/HandDetect)
-   
- 
+
+  </div>
+ <div align=center>
+  
  ## :eight_spoked_asterisk: Studying
   ### Backjoon
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qkrwjdal77)](https://solved.ac/profile/qkrwjdal77)
