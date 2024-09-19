@@ -39,7 +39,7 @@
   ### 팀
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JungmiP&repo=Nubila)](https://github.com/JungmiP/Nubila)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JungmiP&repo=SoulMovie)](https://github.com/JungmiP/SoulMovie)
-  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JungmiP&repo=PostCovid19IndustryAnalysis)](https://github.com/JungmiP/PostCovid19IndustryAnalysis)
 
  ### 미니
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JungmiP&repo=HandDetect)](https://github.com/JungmiP/HandDetect)
