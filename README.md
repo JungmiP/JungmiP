@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&customColorList=24&height=190&section=header&text=Jungmi's%20Github&fontSize=55&fontColor=ffffff&fontAlign=35&fontAlignY=30&rotate=-13)
+<img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&customColorList=24&height=190&section=header&text=Jungmi's%20Github&fontSize=55&fontColor=ffffff&fontAlign=35&fontAlignY=30&rotate=-13" alt="header" title="header">
 
  <div align=center>
 
@@ -15,11 +15,7 @@
 ## :ballot_box_with_check: Skills  
 
 <strong>Language:</strong> ![Java](https://img.shields.io/badge/Java-F9df11?style=flat&logo=OpenJDK&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34f26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungmiP&layout=donut&hide=SCSS)](https://github.com/JungmiP)
-
-
-<strong>Web</strong> : ![Sprintboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white) ![tomcat](https://img.shields.io/badge/Tomcat-f8dc75?style=flat&logo=ApacheTomcat&logoColor=white)
+<br><strong>Web</strong> : ![Sprintboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white) ![tomcat](https://img.shields.io/badge/Tomcat-f8dc75?style=flat&logo=ApacheTomcat&logoColor=white)
 <br><strong> DB:</strong> ![Oracle](https://img.shields.io/badge/Oracle-f80000?style=flat&logo=Oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=SpringBoot&logoColor=white)
 <br><strong> AI:</strong> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 <br><strong> Cloud:</strong> ![aws](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white)
